@@ -1,0 +1,37 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,700;1,400&display=swap");
+header {
+  background-image: url("../media/delicious-cupcakes.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  min-height: 100vh; }
+
+.navbar a {
+  color: fondo-uno; }
+
+#slogan {
+  margin-top: 100px; }
+
+#slogan p {
+  font-size: 40px;
+  font-weight: 800;
+  text-align: center; }
+
+#banner {
+  background-image: url("../media/mision.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  min-height: 100vh; }
+
+nav a img {
+  width: 200px; }
+
+#icon img {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  width: 30px; }
+
+footer .micontainer {
+  background-color: fondo-uno; }
